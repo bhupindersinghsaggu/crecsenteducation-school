@@ -21,7 +21,7 @@ include('_web/header.php')
 <section class="cooking-course-choose-area">
     <div class="container">
         <div class="sec-title-style8">
-            <h2> Math <span> Lab</span></h2>
+            <h2> Photo <span> Gallery</span></h2>
         </div>
         <div class="row">
             <div class="col-sm-12">
