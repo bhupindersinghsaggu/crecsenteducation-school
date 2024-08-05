@@ -788,7 +788,7 @@ only in curricular activities but also in co-curricular activities and brought l
         </div>
     </div>
 </section>
-<section class="blog-style1-area">
+<section class="">
     
     <div class="container">
         <div class="col-xl-12 text-center">
