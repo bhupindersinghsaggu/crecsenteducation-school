@@ -143,8 +143,7 @@ include('_web/header.php')
                                 all their future endeavours.
                                 <div class="read-more">
                                     <div class="date">
-                                        <span class="icon-calendar icon-color"></span> April 27,
-                                        2022
+                                        <span class="icon-calendar icon-color"></span> 27 April 2024
                                     </div>
                                 </div>
                             </li>
@@ -660,7 +659,7 @@ include('_web/header.php')
                                 </div>
                                 <div class="owl-item active" style="width: 370px; margin-right: 30px;">
                                     <div class="single-testimonial-style2 text-center">
-                                        <img src="assets/images/award/2.jpg" alt="">
+                                        <img src="assets/images/award/2.png" alt="">
                                         <div class="text-box">
                                             <div class="client-name">
                                                 <h3>Indian Iconic Award</h3>
@@ -811,15 +810,11 @@ include('_web/header.php')
 <section class="blog-style1-area">
     <div class="container">
         <div class="sec-title text-center">
-            <h2>Photo Gallery</h2>
+            <a href="photo-gallery.php"><h2>View Photo Gallery</h2></a>
             <div class="sub-title">
             </div>
         </div>
-        <div class="row">
-            <iframe
-                src="https://curtina.in/_EazySchool/Crescent/PhotoGallery.aspx?AppId=crescent&cdn=http://curtina.in/crescent"
-                style="height:300px; width:100%"></iframe>
-        </div>
+       
     </div>
 </section>
 <a href="https://curtina.in/CRESCENT/forms/frmstdpayonline.aspx" target="_blank"><img onclick="topFunction()"

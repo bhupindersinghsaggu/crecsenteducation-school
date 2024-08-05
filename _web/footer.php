@@ -208,7 +208,7 @@
                <div class="bottom-inner">
                    <div class="copyright-style9">
                        <p>
-                           Copyright <a href="index.php">Crecsent Education </a> Site created by <a
+                           Copyright <a href="index.php">Crescent Education </a> Site created by <a
                                href="curtinatech.com">Curtina Tech</a>
                        </p>
                    </div>

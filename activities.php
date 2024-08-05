@@ -149,32 +149,6 @@ include('_web/header.php')
                             <div class="inner-text">
                                 <h3>Seminars on communication, Body Language and Personality development
                                 </h3>
-                                <p> <i class="fa-regular fa-paper-plane theme-color"></i> Different competitions are
-                                    held in the school campus hosting different schools and colleges of Palampur.Our
-                                    students always perform in flying colours in all competitions they take part in,be
-                                    it academic,cultural or sports. Their zeal to participate in these events is always
-                                    outstanding.</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="row pd-top100 align-items-center">
-            <div class="col-xl-6">
-                <div class="cooking-course-choose-img-box">
-                    <div class="inner">
-                        <img src="assets/images/eminent/14.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-6">
-                <div class="cooking-course-choose-text-box">
-                    <ul>
-                        <li>
-                            <div class="inner-text">
-                                <h3>Seminars on communication, Body Language and Personality development
-                                </h3>
                                 <p> <i class="fa-regular fa-paper-plane theme-color"></i> In today's world, competition
                                     is at its peak, hence students need an edge to stand out in the crowd. This edge is
                                     provided by Crescent Public School with the medium of seminars conducted weekly to

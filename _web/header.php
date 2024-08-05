@@ -323,7 +323,7 @@
                                                     <li><a href="eminent.php">Eminent Guests at school</a></li>
                                                     <li><a href="alumni.php">Alumni</a></li>
                                                     <li><a href="Mandatory_Disclosure.php">Mandatory Disclosure</a></li>
-                                                    <li><a href="schoolmap.php">distance From School</a></li>
+                                                    <li><a href="schoolmap.php">Distance From School</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown"><a href="#">Academic</a>
@@ -351,13 +351,13 @@
                                                     <li><a href="sports_games.php">Sports & Games</a></li>
                                                     <li><a href="hostel_facilities.php">Hostel Facilities</a></li>
                                                     <li><a href="transport.php">Transport</a></li>
-                                                    <li><a href="tclp.php">coaching classes</a></li>
+                                                    <li><a href="tclp.php">Coaching classes</a></li>
                                                     <li><a href="exam_coaching.php">The Crescent Learning Programme</a>
                                                     </li>
                                                     <li><a href="careercounselling.php">Career Counselling</a></li>
                                                     <li><a href="coding.php"> Coding</a></li>
                                                     <li><a href="skating-rink.php"> Skating Rink</a></li>
-                                                    <li><a href="table-tennis.php"> Table Tennis</a></li>
+                                                  
                                                 </ul>
                                             </li>
                                             <li class="dropdown"><a href="#">Discipline</a>
