@@ -789,16 +789,7 @@ only in curricular activities but also in co-curricular activities and brought l
     </div>
 </section>
 <section class="blog-style1-area">
-    <div class="col-xl-12 text-center">
-        <div class="btns-box">
-            <a class="btn-one btn-one--style4" href="applyonline.php">
-                <span class="txt">
-                    <i class="icon-right-arrow-1"></i>
-                    Click Here
-                </span>
-            </a>
-        </div>
-    </div>
+    
     <div class="container">
         <div class="col-xl-12 text-center">
             <div class="btns-box">
