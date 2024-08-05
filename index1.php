@@ -74,7 +74,7 @@ include('_web/header.php')
                                     <p>With more than 75 major & minor areas of study</p>
                                 </div> -->
                         <div class="btns-box">
-                            <a class="btn-one" href="https://play.google.com/store/apps/details?id=com.jet66.erp2">
+                            <a class="btn-one" href="https://curtina.in/apk/cbuddy.apk">
                                 <span class="txt">
                                     <i class="fa-brands fa-android fa-beat pdr-5"></i>School APP
                                 </span>
@@ -643,7 +643,7 @@ include('_web/header.php')
                                 </div>
                                 <div class="owl-item active" style="width: 370px; margin-right: 30px;">
                                     <div class="single-testimonial-style2 text-center">
-                                        <img src="assets/images/award/2.png" alt="">
+                                        <img src="assets/images/award/2.jpg" alt="">
                                         <div class="text-box">
                                             <div class="client-name">
                                                 <h3>Indian Iconic Award</h3>
@@ -663,16 +663,15 @@ include('_web/header.php')
                                 </div>
                                 <div class="owl-item active" style="width: 370px; margin-right: 30px;">
                                     <div class="single-testimonial-style2 text-center">
-                                        <img src="assets/images/award/1.jpg" alt="">
+                                        <img src="assets/images/award/2.png" alt="">
                                         <div class="text-box">
                                             <div class="client-name">
                                                 <h3>Prize for meritorious</h3>
                                             </div>
                                             <p>
-                                                Success is the hallmark of Crescent family. This legacy is
-                                                carried further by Crescentians year after year through their
-                                                stellar performances in Board exams. Here are our meritorious
-                                                scholars with their laptops for obtaining highest marks.
+                                            Success is the hallmark of Crescent family. This legacy is carried further by Crescentians year after year
+through their stellar performances in Board Exams. Our students have always proved their mettle not
+only in curricular activities but also in co-curricular activities and brought laurels to School.
                                             </p>
                                         </div>
                                         <div class="client-name">
