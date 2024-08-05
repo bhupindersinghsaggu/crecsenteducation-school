@@ -51,8 +51,7 @@ include('_web/header.php')
                                     <i class="fa-solid fa-house-chimney-user fa-beat pdr-5"></i> About us
                                 </span>
                             </a>
-                            <a class="btn-one style2"
-                                href="https://curtina.in/CRESCENT/forms/frmApplication3_AE_JQ.aspx">
+                            <a class="btn-one style2" href="https://curtina.in/CRESCENT/forms/frmApplication3_AE_JQ.aspx">
                                 <span class="txt">
                                     <i class="fa-solid fa-right-to-bracket fa-beat pdr-5"></i> Apply Online
                                 </span>
@@ -119,8 +118,7 @@ include('_web/header.php')
             <div class="col-xl-6">
                 <div class="quiz-learning-intro-content-box">
                     <h4 class="pdb-10">Latest News</h4>
-                    <marquee scrollamount="3" height="300px" loop="" direction="up" crollamount="5" scrolldelay="40"
-                        onmouseover="this.stop();" onmouseout="this.start();">
+                    <marquee scrollamount="3" height="300px" loop="" direction="up" crollamount="5" scrolldelay="40" onmouseover="this.stop();" onmouseout="this.start();">
                         <ul style="margin-bottom:0px;">
                             <li class="thoughttext"> <i class="fa-solid fa-paper-plane fa-beat pdr-5 new-color"></i>
                                 Crescent Public School Excels in Class X and XII (Science & Com) CBSE Board Examination
@@ -216,8 +214,7 @@ include('_web/header.php')
             <div class="col-xl-12">
                 <div class="quiz-learning-intro-img-box">
                     <div class="quiz-learning-intro-img-box-shape">
-                        <img class="float-bob-y"
-                            src="assets/images/quiz-learning/shape/quiz-learning-intro-img-box-shape.png" alt="">
+                        <img class="float-bob-y" src="assets/images/quiz-learning/shape/quiz-learning-intro-img-box-shape.png" alt="">
                     </div>
                     <ul>
                         <li>
@@ -230,8 +227,7 @@ include('_web/header.php')
                         <li>
                             <div class="quiz-learning-intro-img-colum-two">
                                 <div class="round-box-content">
-                                    <div class="curved-circle"
-                                        style="position: absolute; visibility: visible; height: 174.815px" ;>
+                                    <div class="curved-circle" style="position: absolute; visibility: visible; height: 174.815px" ;>
                                     </div>
                                     <div class="logo-box">
                                         <img src="assets/images/small-logo.png">
@@ -269,32 +265,27 @@ include('_web/header.php')
     </div>
 </section>
 <section class="video-gallery-style2-area mt-50">
-    <div class="video-gallery-style2-area__bg"
-        style="background-image: url(assets/images/parallax-background/video-gallery-style2-area__bg.jpg);">
+    <div class="video-gallery-style2-area__bg" style="background-image: url(assets/images/parallax-background/video-gallery-style2-area__bg.jpg);">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-xl-12 text-center">
                 <div class="video-gallery-style2-content">
                     <div class="logo-box">
-                       
+
                         <div class="inner-logo ">
                             <img src="assets/images/small-logo.png" alt="">
                         </div>
                     </div>
                     <h2>Empowering Young Minds for a<br> Brighter Tomorrow</h2>
                     <div class="video-holder-box">
-                    <button id="openModalBtn" class="btn-one video-popup wow zoomIn animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="border-radius: 66px;"><i class="fa-solid fa-tent fa-beat pdr-5"></i> Campus Tour</button>
+                        <button id="openModalBtn" class="btn-one video-popup wow zoomIn animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="border-radius: 66px;"><i class="fa-solid fa-tent fa-beat pdr-5"></i> Campus Tour</button>
                     </div>
                     <!-- Modal Structure -->
                     <div id="myModal" class="modal">
-                        <div class="modal-content"  style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: zoomIn;">
+                        <div class="modal-content" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: zoomIn;">
                             <span class="close modal-button">&times;</span>
-                            <iframe width="100%" height="500"
-                                src="https://www.youtube.com/embed/A4-mQcWDBd4?si=Xsw3glNUCH4vuZ4e"
-                                title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="100%" height="500" src="https://www.youtube.com/embed/A4-mQcWDBd4?si=Xsw3glNUCH4vuZ4e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
@@ -530,8 +521,7 @@ include('_web/header.php')
                 style="visibility: visible; animation-duration: 4000ms; animation-name: slideInRight;">
                 <img class="float-bob-x" src="assets/images/instructor/shape/highlights-area-shape-3.png" alt="">
             </div> -->
-    <div class="big-title-box paroller-2"
-        style="transform: unset; transition: transform 0s linear 0s; will-change: transform;">Crescent</div>
+    <div class="big-title-box paroller-2" style="transform: unset; transition: transform 0s linear 0s; will-change: transform;">Crescent</div>
     <div class="container">
         <div class="sec-title-style4 center text-center">
             <div class="sub-title">
@@ -543,9 +533,7 @@ include('_web/header.php')
         <div class="row">
             <!--Start Single Highlights Box-->
             <div class="col-xl-6">
-                <div class="single-highlights-box wow slideInLeft animated" data-wow-delay="100ms"
-                    data-wow-duration="1000ms"
-                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: slideInLeft;">
+                <div class="single-highlights-box wow slideInLeft animated" data-wow-delay="100ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: slideInLeft;">
                     <div class="single-highlights-box__inner">
                         <div class="text-box">
                             <!-- <h5>We are</h5> -->
@@ -561,9 +549,7 @@ include('_web/header.php')
             <!--End Single Highlights Box-->
             <!--Start Single Highlights Box-->
             <div class="col-xl-6">
-                <div class="single-highlights-box wow slideInRight animated" data-wow-delay="100ms"
-                    data-wow-duration="1000ms"
-                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: slideInRight;">
+                <div class="single-highlights-box wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: slideInRight;">
                     <div class="single-highlights-box__inner">
                         <div class="text-box">
                             <!-- <h5>We are</h5> -->
@@ -612,8 +598,7 @@ include('_web/header.php')
         <div class="row">
             <div class="col-xl-12">
                 <div class="testimonial-style1-content">
-                    <div class="theme_carousel testimonial-carousel owl-theme owl-carousel owl-loaded owl-drag"
-                        data-options="{
+                    <div class="theme_carousel testimonial-carousel owl-theme owl-carousel owl-loaded owl-drag" data-options="{
                                             &quot;loop&quot;: true, 
                                             &quot;margin&quot;: 30, 
                                             &quot;autoheight&quot;:true, 
@@ -634,8 +619,7 @@ include('_web/header.php')
                                         }
                                     }">
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1200px;">
+                            <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1200px;">
                                 <div class="owl-item active" style="width: 370px; margin-right: 30px;">
                                     <div class="single-testimonial-style2 text-center">
                                         <img src="assets/images/award/1.jpg" alt="">
@@ -700,9 +684,7 @@ include('_web/header.php')
                                 </div>
                             </div>
                         </div>
-                        <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
-                                    class="left icon-next"></span></button><button type="button" role="presentation"
-                                class="owl-next"><span class="right icon-next"></span></button></div>
+                        <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span class="left icon-next"></span></button><button type="button" role="presentation" class="owl-next"><span class="right icon-next"></span></button></div>
                         <div class="owl-dots disabled"></div>
                     </div>
                 </div>
@@ -808,17 +790,30 @@ include('_web/header.php')
     </div>
 </section>
 <section class="blog-style1-area">
+    <div class="col-xl-12 text-center">
+        <div class="btns-box">
+            <a class="btn-one btn-one--style4" href="applyonline.php">
+                <span class="txt">
+                    <i class="icon-right-arrow-1"></i>
+                    Click Here
+                </span>
+            </a>
+        </div>
+    </div>
     <div class="container">
-        <div class="sec-title text-center">
-            <a href="photo-gallery.php"><h2>View Photo Gallery</h2></a>
-            <div class="sub-title">
+        <div class="col-xl-12 text-center">
+            <div class="btns-box">
+                <a class="btn-one btn-one--style4" href="photo-gallery.php">
+                    <span class="txt">
+                        <i class="icon-right-arrow-1"></i>
+                        View Photo Gallery
+                    </span>
+                </a>
             </div>
         </div>
-       
     </div>
 </section>
-<a href="https://curtina.in/CRESCENT/forms/frmstdpayonline.aspx" target="_blank"><img onclick="topFunction()"
-        id="btnGoToTop" src="/images/ss.png" alt=""></a>
+<a href="https://curtina.in/CRESCENT/forms/frmstdpayonline.aspx" target="_blank"><img onclick="topFunction()" id="btnGoToTop" src="/images/ss.png" alt=""></a>
 <?php
 include('_web/footer.php')
 ?>
