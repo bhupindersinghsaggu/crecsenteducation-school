@@ -51,7 +51,8 @@ include('_web/header.php')
                                     <i class="fa-solid fa-house-chimney-user fa-beat pdr-5"></i> About us
                                 </span>
                             </a>
-                            <a class="btn-one style2" href="https://curtina.in/CRESCENT/forms/frmApplication3_AE_JQ.aspx">
+                            <a class="btn-one style2"
+                                href="https://curtina.in/CRESCENT/forms/frmApplication3_AE_JQ.aspx">
                                 <span class="txt">
                                     <i class="fa-solid fa-right-to-bracket fa-beat pdr-5"></i> Apply Online
                                 </span>
@@ -118,94 +119,9 @@ include('_web/header.php')
             <div class="col-xl-6">
                 <div class="quiz-learning-intro-content-box">
                     <h4 class="pdb-10">Latest News</h4>
-                    <marquee scrollamount="3" height="300px" loop="" direction="up" crollamount="5" scrolldelay="40" onmouseover="this.stop();" onmouseout="this.start();">
-                        <ul style="margin-bottom:0px;">
-                            <li class="thoughttext"> <i class="fa-solid fa-paper-plane fa-beat pdr-5 new-color"></i>
-                                Crescent Public School Excels in Class X and XII (Science & Com) CBSE Board Examination
-                                2023-24
-                                Crescent Public School has once again demonstrated its academic prowess with exceptional
-                                results in class X &XII CBSE Board Exams for the academic session 2023-24. The
-                                remarkable achievements of Crescentians are a testament to the school's commitment to
-                                excellence.
-                                Highlights of Class 12th Result
-                                <br> Pass Percentage -100%
-                                <br>Students above 90% -07
-                                <br>Students above 85%- 11
-                                <br>Students above 80%- 24
-                                <br>Highlights of Class 10th Result
-                                <br>Pass Percentage -100%
-                                <br>students above 90% -08
-                                <br>Students above 85%- 16
-                                <br>Students above 80%- 22
-                                <br>We extent our heartfelt wishes for our students' continued success and fulfilment in
-                                all their future endeavours.
-                                <div class="read-more">
-                                    <div class="date">
-                                        <span class="icon-calendar icon-color"></span> 27 April 2024
-                                    </div>
-                                </div>
-                            </li>
-                            <hr>
-                            <li class="thoughttext"> <i class="fa-solid fa-paper-plane fa-beat pdr-5 new-color"></i>
-                                The National Technology Day celebration on 9th May 2024 at Crescent Public School,
-                                Banuri provided a platform for students to showcase their technical skills in an
-                                innovative and creative way .The event provided a platform for students to demonstrate
-                                their skills, exchange knowledge, and inspire others with their creations. The
-                                celebration aimed to educate and inspire students about the role of technology in our
-                                daily lives through engaging and age-appropriate activities tailored to different class
-                                levels.
-                                The enthusiastic Crescentians participated in plethora of activities with full passion
-                                and enthusiasm. Students created vibrant posters and flashcards. In Presentation
-                                session, students shared their perspectives on the latest tech trends or inventions. The
-                                Interactive PowerPoint presentation was one of the main highlights of the event.
-
-                                <div class="read-more">
-                                    <div class="date">
-                                        <span class="icon-calendar icon-color"></span> March 22,
-                                        2022
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="thoughttext"> <i class="fa-solid fa-paper-plane fa-beat pdr-5 new-color"></i>
-                                The fire fighting mock drill held at Crescent Public School, Banuri campus on 8th May
-                                2024 aimed to enhance safety awareness and preparedness among students and teachers in
-                                the event of a fire emergency.Through a combination of theoretical knowledge
-                                dissemination and practical demonstration by firefighting personnel, the drill sought to
-                                equip participants with the necessary skills and knowledge to respond effectively to
-                                such situations.The mock drill commenced with an informative session on fire safety
-                                protocols, including the identification of fire hazards, evacuation procedures, and
-                                proper usage of firefighting equipment such as fire extinguishers.Following the
-                                theoretical briefing by fireman Mr.Bhag Singh, a practical demonstration was conducted
-                                by fire fighting officer Mr. Surender Kumar to aware Crescentians about the different
-                                types of fires and kinds of fire extinguishers used commonly.
-                                This demonstration included the proper operation of fire extinguishers, techniques for
-                                extinguishing different types of fires, and the importance of maintaining composure
-                                during emergencies.The enlightened faces of students reflected the success of this
-                                event.
-                                <div class="read-more">
-                                    <div class="date">
-                                        <span class="icon-calendar icon-color"></span> Feb 10,
-                                        2022
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="thoughttext"> <i class="fa-solid fa-paper-plane fa-beat pdr-5 new-color"></i>
-                                Crescent Public School,Banuri hosted a vibrant competition as a part of Saturday House
-                                wise activities on 4th May 2024, showcasing the linguistic and oratory talents of its
-                                students. The event featured a Hindi and English Calligraphy competition for classes 1st
-                                to 4th, followed by an Extempore competition for classes 5th to 12th.In Hindi and
-                                English Calligraphy, Young learners exhibited impressive penmanship skills, infusing
-                                creativity into their written expressions of the Hindi and English script whereas in
-                                Extempore competition, students showcased their ability to articulate thoughts on
-                                diverse topics, demonstrating confidence and eloquence.
-                                <div class="read-more">
-                                    <div class="date">
-                                        <span class="icon-calendar icon-color"></span> Feb 10,
-                                        2022
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
+                    <iframe
+                        src="https://curtina.in/_EazySchool/crescent/NewsEvents.aspx?AppId=CRESCENT&cdn=http://curtina.in/CRESCENT"
+                        width="400" height="300"></iframe>
                     </marquee>
                 </div>
             </div>
@@ -214,7 +130,8 @@ include('_web/header.php')
             <div class="col-xl-12">
                 <div class="quiz-learning-intro-img-box">
                     <div class="quiz-learning-intro-img-box-shape">
-                        <img class="float-bob-y" src="assets/images/quiz-learning/shape/quiz-learning-intro-img-box-shape.png" alt="">
+                        <img class="float-bob-y"
+                            src="assets/images/quiz-learning/shape/quiz-learning-intro-img-box-shape.png" alt="">
                     </div>
                     <ul>
                         <li>
@@ -227,7 +144,8 @@ include('_web/header.php')
                         <li>
                             <div class="quiz-learning-intro-img-colum-two">
                                 <div class="round-box-content">
-                                    <div class="curved-circle" style="position: absolute; visibility: visible; height: 174.815px" ;>
+                                    <div class="curved-circle"
+                                        style="position: absolute; visibility: visible; height: 174.815px" ;>
                                     </div>
                                     <div class="logo-box">
                                         <img src="assets/images/small-logo.png">
@@ -265,7 +183,8 @@ include('_web/header.php')
     </div>
 </section>
 <section class="video-gallery-style2-area mt-50">
-    <div class="video-gallery-style2-area__bg" style="background-image: url(assets/images/parallax-background/video-gallery-style2-area__bg.jpg);">
+    <div class="video-gallery-style2-area__bg"
+        style="background-image: url(assets/images/parallax-background/video-gallery-style2-area__bg.jpg);">
     </div>
     <div class="container">
         <div class="row">
@@ -279,13 +198,20 @@ include('_web/header.php')
                     </div>
                     <h2>Empowering Young Minds for a<br> Brighter Tomorrow</h2>
                     <div class="video-holder-box">
-                        <button id="openModalBtn" class="btn-one video-popup wow zoomIn animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="border-radius: 66px;"><i class="fa-solid fa-tent fa-beat pdr-5"></i> Campus Tour</button>
+                        <button id="openModalBtn" class="btn-one video-popup wow zoomIn animated" data-wow-delay="300ms"
+                            data-wow-duration="1500ms" style="border-radius: 66px;"><i
+                                class="fa-solid fa-tent fa-beat pdr-5"></i> Campus Tour</button>
                     </div>
                     <!-- Modal Structure -->
                     <div id="myModal" class="modal">
-                        <div class="modal-content" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: zoomIn;">
+                        <div class="modal-content"
+                            style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: zoomIn;">
                             <span class="close modal-button">&times;</span>
-                            <iframe width="100%" height="500" src="https://www.youtube.com/embed/A4-mQcWDBd4?si=Xsw3glNUCH4vuZ4e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="100%" height="500"
+                                src="https://www.youtube.com/embed/A4-mQcWDBd4?si=Xsw3glNUCH4vuZ4e"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
@@ -521,7 +447,8 @@ include('_web/header.php')
                 style="visibility: visible; animation-duration: 4000ms; animation-name: slideInRight;">
                 <img class="float-bob-x" src="assets/images/instructor/shape/highlights-area-shape-3.png" alt="">
             </div> -->
-    <div class="big-title-box paroller-2" style="transform: unset; transition: transform 0s linear 0s; will-change: transform;">Crescent</div>
+    <div class="big-title-box paroller-2"
+        style="transform: unset; transition: transform 0s linear 0s; will-change: transform;">Crescent</div>
     <div class="container">
         <div class="sec-title-style4 center text-center">
             <div class="sub-title">
@@ -533,7 +460,9 @@ include('_web/header.php')
         <div class="row">
             <!--Start Single Highlights Box-->
             <div class="col-xl-6">
-                <div class="single-highlights-box wow slideInLeft animated" data-wow-delay="100ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: slideInLeft;">
+                <div class="single-highlights-box wow slideInLeft animated" data-wow-delay="100ms"
+                    data-wow-duration="1000ms"
+                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: slideInLeft;">
                     <div class="single-highlights-box__inner">
                         <div class="text-box">
                             <!-- <h5>We are</h5> -->
@@ -549,7 +478,9 @@ include('_web/header.php')
             <!--End Single Highlights Box-->
             <!--Start Single Highlights Box-->
             <div class="col-xl-6">
-                <div class="single-highlights-box wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: slideInRight;">
+                <div class="single-highlights-box wow slideInRight animated" data-wow-delay="100ms"
+                    data-wow-duration="1000ms"
+                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 100ms; animation-name: slideInRight;">
                     <div class="single-highlights-box__inner">
                         <div class="text-box">
                             <!-- <h5>We are</h5> -->
@@ -598,7 +529,8 @@ include('_web/header.php')
         <div class="row">
             <div class="col-xl-12">
                 <div class="testimonial-style1-content">
-                    <div class="theme_carousel testimonial-carousel owl-theme owl-carousel owl-loaded owl-drag" data-options="{
+                    <div class="theme_carousel testimonial-carousel owl-theme owl-carousel owl-loaded owl-drag"
+                        data-options="{
                                             &quot;loop&quot;: true, 
                                             &quot;margin&quot;: 30, 
                                             &quot;autoheight&quot;:true, 
@@ -619,7 +551,8 @@ include('_web/header.php')
                                         }
                                     }">
                         <div class="owl-stage-outer">
-                            <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1200px;">
+                            <div class="owl-stage"
+                                style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1200px;">
                                 <div class="owl-item active" style="width: 370px; margin-right: 30px;">
                                     <div class="single-testimonial-style2 text-center">
                                         <img src="assets/images/award/1.jpg" alt="">
@@ -669,9 +602,12 @@ include('_web/header.php')
                                                 <h3>Prize for meritorious</h3>
                                             </div>
                                             <p>
-                                            Success is the hallmark of Crescent family. This legacy is carried further by Crescentians year after year
-through their stellar performances in Board Exams. Our students have always proved their mettle not
-only in curricular activities but also in co-curricular activities and brought laurels to School.
+                                                Success is the hallmark of Crescent family. This legacy is carried
+                                                further by Crescentians year after year
+                                                through their stellar performances in Board Exams. Our students have
+                                                always proved their mettle not
+                                                only in curricular activities but also in co-curricular activities and
+                                                brought laurels to School.
                                             </p>
                                         </div>
                                         <div class="client-name">
@@ -683,7 +619,9 @@ only in curricular activities but also in co-curricular activities and brought l
                                 </div>
                             </div>
                         </div>
-                        <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span class="left icon-next"></span></button><button type="button" role="presentation" class="owl-next"><span class="right icon-next"></span></button></div>
+                        <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
+                                    class="left icon-next"></span></button><button type="button" role="presentation"
+                                class="owl-next"><span class="right icon-next"></span></button></div>
                         <div class="owl-dots disabled"></div>
                     </div>
                 </div>
@@ -789,7 +727,7 @@ only in curricular activities but also in co-curricular activities and brought l
     </div>
 </section>
 <section class="">
-    
+
     <div class="container">
         <div class="col-xl-12 text-center">
             <div class="btns-box">
@@ -803,7 +741,8 @@ only in curricular activities but also in co-curricular activities and brought l
         </div>
     </div>
 </section>
-<a href="https://curtina.in/CRESCENT/forms/frmstdpayonline.aspx" target="_blank"><img onclick="topFunction()" id="btnGoToTop" src="/images/ss.png" alt=""></a>
+<a href="https://curtina.in/CRESCENT/forms/frmstdpayonline.aspx" target="_blank"><img onclick="topFunction()"
+        id="btnGoToTop" src="/images/ss.png" alt=""></a>
 <?php
 include('_web/footer.php')
 ?>
