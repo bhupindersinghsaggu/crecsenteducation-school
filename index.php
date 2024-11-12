@@ -497,7 +497,7 @@ include('_web/header.php')
             <!--End Single Highlights Box-->
             <div class="container">
                 <div class="sec-title-style4 center text-center">
-                    <h2>Online Admission Open for 2024-25</h2>
+                    <h2>Online Admission Open for 2025-26</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-12 text-center">
