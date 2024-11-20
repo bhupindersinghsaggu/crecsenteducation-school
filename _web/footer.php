@@ -6,7 +6,7 @@
                        <div class="footer-top-style9__inner">
                            <div class="left">
                                <div class="inner-title">
-                                   <h3><span>Register!..</span> to study in Current Academic Year 2025.</h3>
+                                   <h3><span>Register!..</span> to study in Current Academic Year 2025-26.</h3>
                                    <div class="button-box">
                                    </div>
                                </div>
