@@ -425,32 +425,12 @@ color: #000;
                                     <font face="Bahnschrift Light SemiCondensed" color="#000000">1</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle><b>
-                                    <font face="Bahnschrift Light SemiCondensed">2020-21</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="55" sdnum="1033;0;###0;###0"><b>
-                                    <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">61</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="53" sdnum="1033;0;###0;###0"><b>
-                                    <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">61</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle><b>
-                                    <font face="Bahnschrift Light SemiCondensed" size=2>100%</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle>
-                                <font face="Bahnschrift Light SemiCondensed" color="#000000"><br></font>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="40" align="center" valign=middle sdval="2" sdnum="1033;0;###0;###0"><b>
-                                    <font face="Bahnschrift Light SemiCondensed" color="#000000">2</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle><b>
                                     <font face="Bahnschrift Light SemiCondensed">2021-22</font>
                                 </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="48" sdnum="1033;0;###0;###0"><b>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="55" sdnum="1033;0;###0;###0"><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">73</font>
                                 </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="48" sdnum="1033;0;###0;###0"><b>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="53" sdnum="1033;0;###0;###0"><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">66</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle><b>
@@ -461,20 +441,40 @@ color: #000;
                             </td>
                         </tr>
                         <tr>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="40" align="center" valign=middle sdval="3" sdnum="1033;0;###0;###0"><b>
-                                    <font face="Bahnschrift Light SemiCondensed" color="#000000">3</font>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="40" align="center" valign=middle sdval="2" sdnum="1033;0;###0;###0"><b>
+                                    <font face="Bahnschrift Light SemiCondensed" color="#000000">2</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle><b>
                                     <font face="Bahnschrift Light SemiCondensed">2022-23</font>
                                 </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="61" sdnum="1033;0;###0;###0"><b>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="48" sdnum="1033;0;###0;###0"><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">43</font>
                                 </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="61" sdnum="1033;0;###0;###0"><b>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="48" sdnum="1033;0;###0;###0"><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">42</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2>97.67%</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle>
+                                <font face="Bahnschrift Light SemiCondensed" color="#000000"><br></font>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="40" align="center" valign=middle sdval="3" sdnum="1033;0;###0;###0"><b>
+                                    <font face="Bahnschrift Light SemiCondensed" color="#000000">3</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle><b>
+                                    <font face="Bahnschrift Light SemiCondensed">2023-24</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="61" sdnum="1033;0;###0;###0"><b>
+                                    <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">52</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="61" sdnum="1033;0;###0;###0"><b>
+                                    <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">46</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle><b>
+                                    <font face="Bahnschrift Light SemiCondensed" size=2>88.46%</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle>
                                 <font face="Bahnschrift Light SemiCondensed" color="#000000"><br></font>
@@ -517,32 +517,12 @@ color: #000;
                                     <font face="Bahnschrift Light SemiCondensed" color="#000000">1</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle><b>
-                                    <font face="Bahnschrift Light SemiCondensed">2020-21</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="57" sdnum="1033;0;###0;###0"><b>
-                                    <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">58</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="52" sdnum="1033;0;###0;###0"><b>
-                                    <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">57</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle><b>
-                                    <font face="Bahnschrift Light SemiCondensed" size=2>98.28%</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle>
-                                <font face="Bahnschrift Light SemiCondensed" color="#000000"><br></font>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="40" align="center" valign=middle sdval="2" sdnum="1033;0;###0;###0"><b>
-                                    <font face="Bahnschrift Light SemiCondensed" color="#000000">2</font>
-                                </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle><b>
                                     <font face="Bahnschrift Light SemiCondensed">2021-22</font>
                                 </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="51" sdnum="1033;0;###0;###0"><b>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="57" sdnum="1033;0;###0;###0"><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">33</font>
                                 </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="51" sdnum="1033;0;###0;###0"><b>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="52" sdnum="1033;0;###0;###0"><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">28</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle><b>
@@ -553,20 +533,40 @@ color: #000;
                             </td>
                         </tr>
                         <tr>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="40" align="center" valign=middle sdval="3" sdnum="1033;0;###0;###0"><b>
-                                    <font face="Bahnschrift Light SemiCondensed" color="#000000">3</font>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="40" align="center" valign=middle sdval="2" sdnum="1033;0;###0;###0"><b>
+                                    <font face="Bahnschrift Light SemiCondensed" color="#000000">2</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle><b>
                                     <font face="Bahnschrift Light SemiCondensed">2022-23</font>
                                 </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="57" sdnum="1033;0;###0;###0"><b>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="51" sdnum="1033;0;###0;###0"><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">51</font>
                                 </b></td>
-                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="57" sdnum="1033;0;###0;###0"><b>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="51" sdnum="1033;0;###0;###0"><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">48</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle><b>
                                     <font face="Bahnschrift Light SemiCondensed" size=2>94.11%</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle>
+                                <font face="Bahnschrift Light SemiCondensed" color="#000000"><br></font>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="40" align="center" valign=middle sdval="3" sdnum="1033;0;###0;###0"><b>
+                                    <font face="Bahnschrift Light SemiCondensed" color="#000000">3</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle><b>
+                                    <font face="Bahnschrift Light SemiCondensed">2023-24</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="57" sdnum="1033;0;###0;###0"><b>
+                                    <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">60</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle sdval="57" sdnum="1033;0;###0;###0"><b>
+                                    <font face="Bahnschrift Light SemiCondensed" size=2 color="#000000">54</font>
+                                </b></td>
+                            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle><b>
+                                    <font face="Bahnschrift Light SemiCondensed" size=2>90%</font>
                                 </b></td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="left" valign=middle>
                                 <font face="Bahnschrift Light SemiCondensed" color="#000000"><br></font>
@@ -703,7 +703,7 @@ color: #000;
                                 <font face="Bahnschrift Light SemiCondensed">TOTAL STUDENTS</font>
                             </td>
                             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=4 align="center" valign=middle sdval="1" sdnum="1033;0;###0;###0">
-                                <font face="Bahnschrift Light SemiCondensed" color="#000000">790</font>
+                                <font face="Bahnschrift Light SemiCondensed" color="#000000">843</font>
                             </td>
                         </tr>
                         <tr>
